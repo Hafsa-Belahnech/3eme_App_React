@@ -6,9 +6,9 @@ function Connexion() {
   return (
     <div>
       {connecte ? (
-        <h3>Connecté</h3>
+        <h2>Connecté !</h2>
       ) : (
-        <h3>Déconnecté</h3>
+        <h2>Déconnecté!!</h2>
       )}
       <button onClick={() => setConnecte(!connecte)}>
         Changer l’état
