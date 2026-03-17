@@ -10,7 +10,7 @@ import './App.css';
 
 
 function App() {
-
+//les constantes 
   const mesCourses = ['Pommes', 'Pain', 'Lait', 'Chocolat'];
 
   return (
@@ -19,7 +19,7 @@ function App() {
       <nav>
         <Link to="/">Accueil</Link> |
         <Link to="/apropos">À propos</Link>
-        <Link to="/connexion">Connexion</Link> {/* Ajoute un lien ici */}
+        <Link to="/connexion">Connexion</Link> {/* Ajout du lien ici */}
         <Link to="/contact"> Contact</Link> {/* Exercice 4 */}
 
       </nav>
