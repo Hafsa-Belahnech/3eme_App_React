@@ -2,7 +2,7 @@ import ListeTaches from './ListeTaches';
 import Logo from './Logo';
 import LecteurAudio from './LecteurAudio';
 
-
+//l'ajout de ces éléments dans la page d'acceuil
 function Accueil() {
 return (
     <div>
