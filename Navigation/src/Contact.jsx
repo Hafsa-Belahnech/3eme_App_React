@@ -1,9 +1,8 @@
-// Contact.jsx
 function Contact() {
   return (
     <div>
-      <h2>Nous contacter</h2>
-      <p>Email : contact@exemple.com</p>
+      <h2>Nous contacter ! </h2>
+      <p>Email : contact@example.com</p>
     </div>
   );
 }
